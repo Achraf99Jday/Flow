@@ -1,7 +1,7 @@
 Achraf (@Achraf99Jday):
 - [ ] Développement des mécanismes du perso
-** Mécanisme déplacement (marcher, courir, sauter, crouch, slide...)
-** Mécanisme de combat (attaque distance, close combat, bloquer)
+  * Mécanisme déplacement (marcher, courir, sauter, crouch, slide...)
+  * Mécanisme de combat (attaque distance, close combat, bloquer)
 - [ ] Développement de la plateforme
 - [ ] Code des assets
 
